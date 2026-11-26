@@ -12,11 +12,11 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 92b51dd7d47c300d3611c448b5474fca5f793f2a
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   verimlilik_motoru:
     git:
       url: https://github.com/taktemurr-ops/verimlilik-motoru
-      ref: be8a8f3877cb8d8c6f2145c39403b0db9c941163
+      ref: 26b4f5df94359189abf037ecdec9905cf5e52659
 
 dev_dependencies:
   flutter_test:
